@@ -137,7 +137,8 @@
 }
 @media (max-width: 600px) {
   .container_banner{
-    width: 600px;
+    width: 84%;
     margin-bottom: 0%;
+    margin: 0;
   }
 }

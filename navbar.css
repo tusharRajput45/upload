@@ -28,7 +28,7 @@
 }
 
 .nav_container ul li a:hover {
-  color: red;
+  color: white;
 }
 
 /* Styles for the sub-menu */
@@ -77,7 +77,7 @@
 .whatapp_img:hover{
   cursor: pointer;
 }
-@media screen and (max-width: 850px) {
+@media screen and (min-width: 850px) {
   .nav_container {
       display: none;
       width: 40%;
@@ -104,5 +104,10 @@
   .nav_container ul li:hover .sub-nav-1 ul{
     margin-left: 180px;
     margin-top: 0px;
+  }
+  .whatapp_img{
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
   }
 }

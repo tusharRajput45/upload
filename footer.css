@@ -97,7 +97,7 @@
 }
 @media screen and (max-width: 600px) {
   .footer-wrapper{
-    width: 600px;
+    width: 84%;
   }
   .footer-widget-wrapper{
     padding-left: 25px;

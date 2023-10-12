@@ -64,7 +64,8 @@ header .mobile_ul {
 }
 @media (max-width: 600px) {
   header {
-    width: 600px;
+    display: block;
+    width:84%;
   }
   header .desktop_ul {
     display: none;

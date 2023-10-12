@@ -46,13 +46,16 @@
           <div class="col">
             <ul class="desktop_ul">
               <li>
-                <a href="index.html">Siya Properties</a>
+                <a href="#">Siya Venice</a>
               </li>
               <li>
                 <a href="#">Call us + 91 144 - 4512 - 458 </a>
               </li>
               <li>
-                <a href="index.html">Home</a>
+                <a href="#">Register your Interest</a>
+              </li>
+              <li>
+                <a href="#">Home</a>
               </li>
             </ul>
             <ul class="mobile_ul">
@@ -141,14 +144,14 @@
 		</section>
     <section class="mt-5 mb-5">
       <div class="section-container">
-        <div class="columns image" style="background-image: url('images/azizi/azizi.jpg')">
+        <div class="columns image" style="background-image: url('images/1.jpg')">
           &nbsp;
         </div>
         <div class="columns content">
           <div class="content-container">
             <h5>AZIZI VENICE </h5>
             <p>
-             AN OASIS OF DREAMS     
+ AN OASIS OF DREAMS     
 
             </p>
             <p>
@@ -166,7 +169,11 @@
             <h5>RIVIERA, MBR CITY</h5>
             <p>
              
-Riviera is one of Azizi’s flagship developments located in Meydan at the heart of Mohammed Bin Rashid City (MBR City) in Dubai. In a prime location, close to Meydan Racecourse, the home of The Dubai World Cup and a variety of sports and leisure facilities, Riviera offers a desirable address and is within close proximity to Downtown Dubai and Dubai International Airport. Inspired by the French Riviera, the iconic mixed-use community will be home to residential apartments, retail outlets and a variety of onsite amenities. 
+Riviera is one of Azizi’s flagship developments located in Meydan at the heart of Mohammed Bin Rashid City (MBR City) in Dubai. In a prime location, close to Meydan Racecourse, the home of The Dubai World Cup and a variety of sports and leisure facilities, Riviera offers a desirable address and is within close proximity to Downtown Dubai and Dubai International Airport. Inspired by the French Riviera, the iconic mixed-use community will be home to residential apartments, retail outlets and a variety of onsite amenities.
+</p>
+ <p>
+Riviera comprises of various mid-rise residential buildings with a variety of retail outlets at ground floor level.  Each individual building will benefit from a swimming pool, landscaped gardens and a gym.   Key attractions will include a beautiful crystal lagoon and beach spanning 2km, a beautiful palm tree lined boulevard and numerous community parks. Residential properties include studios, one, two and three bedroom apartments offering a variety of different views ranging from orientation towards Downtown Dubai and Burj Khalifa to community pool and canal views.   Riviera will also feature a wide variety of cafes and restaurants, convenience stores and shops. 
+ 
 
             </p>
             <p>
@@ -177,12 +184,12 @@ Riviera is one of Azizi’s flagship developments located in Meydan at the heart
             <button class="btn btn-dark">Download Brochure </button>
          </div>
         </div>
-        <div class="columns image" style="background-image: url('images/azizi/riviera.jpg')">
+        <div class="columns image" style="background-image: url('images/2.jpg')">
           &nbsp;
         </div>
       </div>
       <div class="section-container">
-        <div class="columns image" style="background-image: url('images/azizi/thepalm.jpg')">
+        <div class="columns image" style="background-image: url('images/3.jpg')">
           &nbsp;
         </div>
         <div class="columns content">
@@ -203,7 +210,6 @@ Offering peace and tranquility, Mina comprises of one and two bedroom apartments
           </div>
         </div>
       </div>
-	  
       <div class="section-container">
         <div class="columns content">
           <div class="content-container">
@@ -215,19 +221,21 @@ Al Furjan is a vibrant residential district offering the true spirit of communit
 </p>
 <p>
 All of Azizi’s Al Furjan communities feature 24 hour security, swimming pools, recreational areas, fully-equipped gymnasiums and retail outlets at street level. From completed key ready properties to off-plan units, Azizi offers a selection of apartments to suit investors and owner occupiers. Choose from studios, one and two bedrooms and terrace apartments offering spacious living accommodation and good quality finishing. 
-
+</p>
+<p>
+It is estimated that Al Furjan will be home to over 60,000 residents when it is fully completed and all communities are handed over. On the metro line, Al Furjan is a popular address with families and professionals, offering excellent connectivity to all parts of the city. Completed developments include Shaista, Farishta, Samia, Montrell, Acacia, Aster, Freesia, Roy Mediterranean, Daisy, Tulip, Iris, Orchid, Yasamine, Liatris and Feirouz. Future handovers include Plaza, Star and Berton.
             </p>
             <div class="text-center mt-3" >
               <button class="btn btn-dark">Download Brochure </button>
            </div>
           </div>
         </div>
-        <div class="columns image" style="background-image: url('images/azizi/al.jpg')">
+        <div class="columns image" style="background-image: url('images/2.jpg')">
           &nbsp;
         </div>
       </div>
       <div class="section-container">
-        <div class="columns image" style="background-image: url('images/azizi/healthcare.jpg')">
+        <div class="columns image" style="background-image: url('images/3.jpg')">
           &nbsp;
         </div>
         <div class="columns content">
@@ -235,10 +243,10 @@ All of Azizi’s Al Furjan communities feature 24 hour security, swimming pools,
             <h5>DUBAI HEALTHCARE CITY (DHCC)</h5>
             <p>
               
-Creek Views is an iconic residential development standing tall at the heart of Dubai Healthcare City (DHCC) overlooking the creek.  Ideally placed on Al Khail Road, close to Sheikh Zayed Road, Downtown Dubai, Dubai International Airport, Dubai Festival City and Meydan, Creek Views offers an enviable location and good accessibility. 
+Creek Views is an iconic residential development standing tall at the heart of Dubai Healthcare City (DHCC) overlooking the creek.  Ideally placed on Al Khail Road, close to Sheikh Zayed Road, Downtown Dubai, Dubai International Airport, Dubai Festival City and Meydan, Creek Views offers an enviable location and good accessibility. Comprising of two mid-rise contemporary buildings with excellent community facilities and a retail arcade, Creek Views will be home to a variety of studios, one and two bed apartments with panoramic views over the creek and of the Dubai skyline.  Amenities include swimming pools, fully-equipped gymnasiums, landscaped gardens, recreational areas and children’s play areas. When fully completed, Creek Views will be home to over 3,000 residents including medical professionals and families. Creek Views I and II are both under construction and completion of phase one will commence soon.
 </p>
 <p>
-Aliyah was Azizi’s first residential community to be developed and completed in Dubai Healthcare City (DHCC) and is today home to many happy residents.  At the heart of Dubai Healthcare City, Aliyah was one of the first freehold residential buildings to be developed in the area.  Only 10 minutes from Downtown Dubai and close to Dubai International Airport, Dubai Festival City and a variety of attractions nearby, Aliyah offers a central location with excellent connectivity. 
+Aliyah was Azizi’s first residential community to be developed and completed in Dubai Healthcare City (DHCC) and is today home to many happy residents.  At the heart of Dubai Healthcare City, Aliyah was one of the first freehold residential buildings to be developed in the area.  Only 10 minutes from Downtown Dubai and close to Dubai International Airport, Dubai Festival City and a variety of attractions nearby, Aliyah offers a central location with excellent connectivity. The residential development comprises of spacious studios, one & two bedroom apartments with large terraces and lovely panoramic views of the creek and the city.  Aliyah’s residents benefit from a retail arcade spanning 16,000 sq ft, a swimming pool, a gymnasium, a children’s play area and 24 hour security. Aliyah is fully completed.
             </p>
             <div class="text-center mt-3">
               <button class="btn btn-dark">Download Brochure </button>
@@ -246,10 +254,9 @@ Aliyah was Azizi’s first residential community to be developed and completed i
           </div>
         </div>
 		
-		  <div class="section-container">
-        <div class="columns content">
+		 <div class="columns content">
           <div class="content-container">
-             <h5>JEBEL (ALI)</h5>
+            <h5>JEBEL ALI)</h5>
             <p>
 
 Aura is Azizi’s first completed residential community in Downtown Jebel Ali. Aura is located on the metro line in Jebel Ali Free Zone, close to Expo 2020 and Ibn Battuta. Home to more than 7,000 companies from over 1,000 countries, JAFZA accounts for almost 24% of total foreign direct investment coming into the UAE.
@@ -258,22 +265,15 @@ Aura is Azizi’s first completed residential community in Downtown Jebel Ali. A
 <p>
 Comprising of studios, one and two bedroom apartments, Aura offers a strategic location and excellent accessibility for residents living and working in the area.  Completed in 2020, Aura residents benefit from a swimming pool, landscaped gardens, a fully-equipped gymnasium, underground parking, 24 hour security and 9,000 sq ft dedicated to retail outlets for cafes, restaurants, convenience stores and shops. Aura is fully completed.
             </p>
-            <div class="text-center mt-3" >
+            <div class="text-center mt-3">
               <button class="btn btn-dark">Download Brochure </button>
            </div>
           </div>
         </div>
-        <div class="columns image" style="background-image: url('images/azizi/jebel.jpg')">
-          &nbsp;
-        </div>
-      </div>
-      <div class="section-container">
-        <div class="columns image" style="background-image: url('images/azizi/studio.jpg')">
-          &nbsp;
-        </div>
-        <div class="columns content">
+		
+	 <div class="columns content">
           <div class="content-container">
-           <h5>STUDIO CITY</h5>
+            <h5>STUDIO CITY</h5>
             <p>
 
 Dubai Studio City is not only the hub for cutting-edge facilities and services to companies across the media and entertainment sector but is also in vicinity to some of the emirate’s most sensational leisure and lifestyle options. Beach Oasis is a stylish address destined for the free-spirited seeking thrilling outdoor experiences and memories. Connect, innovate, and re-energise in your space of maximised comfort, convenience, and possibilities.
@@ -283,36 +283,11 @@ Dubai Studio City is not only the hub for cutting-edge facilities and services t
            </div>
           </div>
         </div>
-		
-		
-		  <div class="section-container">
-        <div class="columns content">
-          <div class="content-container">
-                <h5>PARK AVENUE, MBR CITY</h5>
-            <p>
 
 
-Urban living at its best, Park Avenue is a low-rise residential community located on Meydan Avenue in Mohammed Bin Rashid City (MBR City).  Park Avenue is in a privileged location, just a stone’s throw from Meydan Grandstand, the home of The Dubai World Cup, the world’s richest horse race and is surrounded by lush green surroundings and nature.  Offering the best of both worlds, the residential development is within close proximity to Downtown Dubai, Dubai International Airport and Dubai Festival City. 
-</p>
-<p>
-Comprising of well-appointed one and two bedroom apartments across three contemporary buildings, Park Avenue residents will benefit from swimming pools and recreational areas, landscaped gardens, fully-equipped gymnasiums, underground parking, 24 hour security and retail outlets at street level. Park Avenue is currently under construction.
-            </p>
-            <div class="text-center mt-3" >
-              <button class="btn btn-dark">Download Brochure </button>
-           </div>
-          </div>
-        </div>
-        <div class="columns image" style="background-image: url('images/azizi/park.jpg')">
-          &nbsp;
-        </div>
-      </div>
-      <div class="section-container">
-        <div class="columns image" style="background-image: url('images/azizi/sports.jpg')">
-          &nbsp;
-        </div>
-        <div class="columns content">
+ <div class="columns content">
           <div class="content-container">
-           <h5>SPORTS CITY</h5>
+            <h5>SPORTS CITY</h5>
             <p>
 
 Sports City is well-placed just outside the city and can be easily accessed via two of Dubai’s major highways, Sheikh Zayed Road and Al Khail Road. Home to the iconic ICC cricket stadium, The Els Club, Sports Park, The Football Academy and Dubai International Stadium, Sports City is a popular hotspot with sports enthusiasts. A great place for families with children, Dubai Sports City offers a variety of different nurseries and schools for children of all ages, including Victory Heights Primary School and GEMS United School.
@@ -327,6 +302,25 @@ In Sports City residents can choose from a selection of places to live, ranging 
         </div>
 		
 		
+		 <div class="columns content">
+          <div class="content-container">
+            <h5>PARK AVENUE, MBR CITY</h5>
+            <p>
+
+
+Urban living at its best, Park Avenue is a low-rise residential community located on Meydan Avenue in Mohammed Bin Rashid City (MBR City).  Park Avenue is in a privileged location, just a stone’s throw from Meydan Grandstand, the home of The Dubai World Cup, the world’s richest horse race and is surrounded by lush green surroundings and nature.  Offering the best of both worlds, the residential development is within close proximity to Downtown Dubai, Dubai International Airport and Dubai Festival City. 
+</p>
+<p>
+Comprising of well-appointed one and two bedroom apartments across three contemporary buildings, Park Avenue residents will benefit from swimming pools and recreational areas, landscaped gardens, fully-equipped gymnasiums, underground parking, 24 hour security and retail outlets at street level. Park Avenue is currently under construction.
+            </p>
+            <div class="text-center mt-3">
+              <button class="btn btn-dark">Download Brochure </button>
+           </div>
+          </div>
+        </div>
+		
+		
+		
 		
       </div>
       
@@ -339,7 +333,7 @@ In Sports City residents can choose from a selection of places to live, ranging 
             <div class="row mtm-44">
               <!-- Start Single Widget Wrap -->
               <div class="col-lg-3 col-md-6">
-                <div class="single-widget-wrap" style="margin-left:15px;">
+                <div class="single-widget-wrap">
                   <h3 class="widget-title">Head Office</h3>
                   <div class="widget-body">
                     <div class="about-text">
@@ -449,6 +443,10 @@ In Sports City residents can choose from a selection of places to live, ranging 
                         Enter your email and receive the latest Update from us.
                       </p>
                       <div class="newsletter-form-wrap">
+                        <form method="post" action="" class="">
+                          <input type="text" name="" class="footer_input" id="" />
+                        </form>
+  
                         <div class="mailchimp-alerts text-center">
                           <div class="mailchimp-submitting"></div>
                           <div class="mailchimp-success"></div>
@@ -471,14 +469,23 @@ In Sports City residents can choose from a selection of places to live, ranging 
                 <div
                   class="footer-copyright-area mt-xs-10 text-center text-sm-start"
                 >
-                  <p>Siya Properties 2023. All Rights Reserved.</p>
+                  <p>Simero Ceramics 2023. All Rights Reserved.</p>
                 </div>
               </div>
               <div class="col-md-6 col-sm-5 order-first order-sm-last">
                 <div
                   class="footer-social-icons nav justify-content-center justify-content-md-end"
                 >
-                 
+                  <p class="powered_text">
+                    Powered by :
+                    <a
+                      href="https://www.sandhyabranding.com/"
+                      target="_blank"
+                      class="powered_link"
+                    >
+                      Sandhya Branding Agency</a
+                    >
+                  </p>
                 </div>
               </div>
             </div>
